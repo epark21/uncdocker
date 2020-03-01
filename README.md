@@ -97,7 +97,7 @@ chmod +x push-docker.sh
  
 For example these commands were entered in a different environment and we were able to pull the docker.
 
-#14. Push to Github
+# 14. Push to Github
 
 ```
 git remote add origin git@github.com:epark21/uncdocker.git
