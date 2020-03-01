@@ -2,9 +2,12 @@
 # This is building a docker python project from scratch 
 
 Goals
--Create a customized Docker container from the current version of Python that deploys a simple python script
--Push image to DockerHub
--Pull the image down and run it on a cloud platform cloud shell: AWS Cloud9
+
+- Create a customized Docker container from the current version of Python that deploys a simple python script
+
+- Push image to DockerHub
+
+- Pull the image down and run it on a cloud platform cloud shell: AWS Cloud9
 
 # 1.	Launch AWS Cloud9, create and configure settings for new environment
 
