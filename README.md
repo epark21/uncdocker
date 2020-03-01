@@ -1,5 +1,5 @@
 # Individual Project 2
-# This is building a docker python project from scratch 
+# Docker Container Project 
 
 Goals
 
